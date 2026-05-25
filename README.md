@@ -16,9 +16,11 @@ and 38,472 hours of grid + weather data.
 
 ## Visualizations
 
-![Load Forecast vs Actual](images/forecast_results.png)
+![Load Forecast vs Actual](images/Chart_1.png)
 
-![Prediction Interval](images/forecast_with_interval.png)
+![Monthly Difference & Feature Important](images/Chart_2.png)
+
+![Result Summary](images/Results.png)
 
 ## How to Run
 
