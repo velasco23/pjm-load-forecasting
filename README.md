@@ -34,7 +34,7 @@ and 38,472 hours of grid + weather data.
 
 ## Key Findings
 
-- `demand_lag_24h` dominates at ~0.50 importance — electricity demand is highly autocorrelated
+- `demand_lag_24h` dominates at ~0.43 importance — electricity demand is highly autocorrelated
 - `is_cold_spike` ranked 4th — PJM's Mid-Atlantic region has high electric heating penetration
 - Temperature lead features (+6h, +12h) simulate how grid operators use weather forecasts
 - Data volume (7.7x increase) outperformed all feature engineering combined
